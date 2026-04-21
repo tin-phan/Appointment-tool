@@ -26,7 +26,15 @@ Five-phase delivery building a self-serve online booking tool for Lona Nail salo
   5. Date/time picker shows correct Sunday 10am–5pm slots
   6. Name, phone, email form validates before submit
   7. Opt-in checkbox and privacy statement visible before submission
-**Plans**: TBD
+**Plans**: 6 plans across 5 waves
+
+Plans:
+- [ ] 01-PLAN-01-project-scaffold.md — Next.js + Tailwind + shadcn/ui project bootstrap
+- [ ] 01-PLAN-02-types-and-data.md — TypeScript types, services catalog, schedule utilities
+- [ ] 01-PLAN-03-service-selector.md — Grouped service checkboxes with live price+duration total
+- [ ] 01-PLAN-04-datetime-picker.md — Sunday-restricted calendar and time slot grid
+- [ ] 01-PLAN-05-contact-and-mode.md — Mode toggle, location fields, contact form, marketing consent
+- [ ] 01-PLAN-06-page-assembly.md — /book page assembly and booking summary screen
 
 ### Phase 2: Google Calendar Integration
 **Goal**: Bookings block the calendar; only free slots are shown to customers.
